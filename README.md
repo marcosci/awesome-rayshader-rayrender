@@ -59,6 +59,10 @@ A curated list of awesome [rayshader](https://github.com/tylermorganwall/rayshad
 * [Solarsystem rendering](https://gist.github.com/marcosci/f21c030d082a9edc2afe5bd31fb17d47)
 * [How to: Download and Animate Polar Ice Data in R with Rayrender](https://www.tylermw.com/polar-ice-data-in-r-with-rayrender/)
 
+## Accompanying R packages
+
+* [rayvista](https://github.com/h-a-graham/rayvista)
+
 ## Websites
 
 * [https://www.tylermw.com/](https://www.tylermw.com/)
