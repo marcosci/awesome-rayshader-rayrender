@@ -13,6 +13,7 @@ A curated list of awesome [rayshader](https://github.com/tylermorganwall/rayshad
 * [Slicing through Monterey Bay: Creating 3D Maps with Rayshader](https://www.tylermw.com/3d-maps-with-rayshader/)
 * [From R to Reality: 3D Printing Maps with Rayshader](https://www.tylermw.com/3d-printing-rayshader/)
 * [Portrait Mode for Data: rayshader + rayfocus](https://www.tylermw.com/portrait-mode-data/)
+* [Creating 2D and 3D Visualizations with Rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader)
 
 ### Bathymetric
 * [3D Bathymetric + Elevation Cube ](https://gist.github.com/dwbapst/bc4cfeb764c2df53e53670bf6e6eb67b)
