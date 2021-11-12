@@ -4,6 +4,14 @@ A curated list of awesome [rayshader](https://github.com/tylermorganwall/rayshad
 
 ## rayshader
 
+### Digital Elevation Models (DEM)
+
+* [Beautiful Maps with Rayshader](https://www.javierorraca.com/posts/2021-09-07-rayshader/)
+* [Rayshading Adelboden](https://github.com/zumbov2/rayshader-adelboden)
+
+### Historic Maps
+* [Historical Map of India with 3D elevation](https://gist.github.com/tylermorganwall/cec09392cb7d3e102496e30afe5e0898)
+
 ### LiDAR
 
 * [3D render of Fort Bourtange from LiDAR data](https://gist.github.com/norwegianblueparrot/b9d5d48f2d591d78a14320bf17459cc5)
