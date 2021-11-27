@@ -39,7 +39,7 @@ A curated list of awesome [rayshader](https://github.com/tylermorganwall/rayshad
 
 ### ggplot2
 * [Introducing 3D ggplots with rayshader](https://www.tylermw.com/3d-ggplots-with-rayshader/)
-
+* [ggßplot2 heatmap](https://github.com/bydata/30DayMapChallenge-2021/blob/main/R/day27-heatmap.R)
 
 ## rayrender
 
